@@ -3,10 +3,10 @@
     pushswap
   </h1>
 </div>
-<center>⚠ As for every EPITECH's project, any cheating might result in a -42 ⚠</center><br />
+<div align="center">⚠ As for every EPITECH's project, any cheating might result in a -42 ⚠</div><br />
 The project is made up of two lists of numbers named l_a and l_b.<br />
 In the beginning, l_b will be empty and l_a will contain a certain amount of positive or negative numbers. <br/>
-The objective of the project is to sort l_a.<br /><br />
+The objective of the project is to sort l_a.<br />
 
 # How the project was handled
 
